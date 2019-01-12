@@ -1,2 +1,2 @@
-require config/environment.rb 
-"sinatra/activerecord/rake"
+require 'config/environment'
+require "sinatra/activerecord/rake"
